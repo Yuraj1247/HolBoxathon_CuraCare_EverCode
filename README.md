@@ -5,7 +5,7 @@ This project is a smart clinic appointment system where patients can book appoin
 ---
 
 ## Deployement Link :- https://hol-boxathon-cura-cure-ever-code.vercel.app/
-## Repo Link :- https://github.com/Yuraj1247/HolBoxathon_CuraCure_EverCode/
+## Repo Link :- https://github.com/Yuraj1247/HolBoxathon_CuraCare_EverCode
 
 ---
 
